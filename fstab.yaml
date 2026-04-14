@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p150655-e1553312.adobeaemcloud.com/bin/franklin.delivery/bank-of-queensland-program/ue-dev/main"
     type: "markup"
     suffix: ".html"
